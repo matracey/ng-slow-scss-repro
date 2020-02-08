@@ -1,0 +1,5 @@
+{
+    "eslint.workingDirectories": [
+        { "directory": "./src/ng-slow-scss-repo/ClientApp" }
+    ]
+}
